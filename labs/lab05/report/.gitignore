@@ -1,3 +1,6 @@
 /.quarto/
 /_output/
+!/_output/
+!/_output/report.pdf
+!/_output/report.docx
 **/*.quarto_ipynb
